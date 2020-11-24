@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W12419
   title: དབྱངས་ཅན་སྒྲ་མདོའི་རྩ་འགྲེལ་དང་མཚམས་སྦྱོར་ལྔ་པ་སོགས། ༼ཞོལ་པར་མ།༽
-  volume: ''
+  volume:
+    fea32a26e11145869501b3a8e1d979f0:
+      image_group_id: I1KG10762
+      title: Volume 1 of dbyangs can sgra mdo'i rtsa 'grel dang mtshams sbyor lnga
+        pa sogs/ (zhol par ma/)
+      volume_number: 1
+      total_pages: 496
   author: ''
+ebook_metadata:
+  title: དབྱངས་ཅན་སྒྲ་མདོའི་རྩ་འགྲེལ་དང་མཚམས་སྦྱོར་ལྔ་པ་སོགས། ༼ཞོལ་པར་མ།༽
+  author: ''
+  sku: P007029
+  cover: cover.jpg
+  layers:
+  - pagination
